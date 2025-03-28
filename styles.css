@@ -17,7 +17,7 @@ body {
 }
 
 .bg-image {
-    width: 100%;
+    width: 984px;
     height: 100%;
     object-fit: cover;
 }
@@ -25,11 +25,12 @@ body {
 .product-cards {
     position: absolute;
     top: 250px;
-    left: 50%;
-    transform: translate(-50%);
+    left: 492px;
     display: flex;
     z-index: 1;
+    transform: none;
 }
+
 
 .product-card {
     width: 300px;
